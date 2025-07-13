@@ -59,7 +59,7 @@ Daha fazla uç nokta detayını ilgili dosyada bulabilirsiniz.
 Aşağıdaki resimler `public/` klasöründe yer almakta olup arayüzde kullanılmaktadır:
 
 ER Diyagramı
-- <img width="887" height="563" alt="image" src="https://github.com/user-attachments/assets/dadce7df-0494-446f-9584-a91514982acf" />
+- <img width="1279" height="821" alt="image" src="https://github.com/user-attachments/assets/00d3580a-d0a0-41fe-bb90-b0a413999ec3" />
 - ![Sumela](public/sumela.jpg)
 - ![Uzungöl](public/uzungol.jpg)
 
