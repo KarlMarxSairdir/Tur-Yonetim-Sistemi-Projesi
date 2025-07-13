@@ -57,8 +57,9 @@ Daha fazla uç nokta detayını ilgili dosyada bulabilirsiniz.
 ## <span style="color:#ff6347">Ekran Görselleri</span>
 
 Aşağıdaki resimler `public/` klasöründe yer almakta olup arayüzde kullanılmaktadır:
+
 ER Diyagramı
-  <img width="887" height="563" alt="image" src="https://github.com/user-attachments/assets/dadce7df-0494-446f-9584-a91514982acf" />
+- <img width="887" height="563" alt="image" src="https://github.com/user-attachments/assets/dadce7df-0494-446f-9584-a91514982acf" />
 - ![Sumela](public/sumela.jpg)
 - ![Uzungöl](public/uzungol.jpg)
 
